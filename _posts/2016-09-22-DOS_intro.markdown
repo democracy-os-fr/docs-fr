@@ -20,11 +20,11 @@ Et utilisez [Gitter Room](https://gitter.im/DemocracyOS/app) si vous avez des de
 
 ## Débuter
 
-Vous pouvez commencer par [Installer DemocracyOS](install.md) sur votre machine.
+Vous pouvez commencer par [Installer DemocracyOS](/docs-fr/doc/2016/09/22/installation.html) sur votre machine.
 
-Pour commencer à coder, allez dans la section [Développer](develop).
+Pour commencer à coder, allez dans la section [Développer](/docs-fr/doc/2016/09/22/guide_developpement.html).
 
-Et, si vous souhaitez avoir DemocracyOS installé et s'exécutant en production, lisez l'un des guides de [Déploiement](deploy).
+Et, si vous souhaitez avoir DemocracyOS installé et s'exécutant en production, lisez l'un des guides de Déploiement (à venir).
 
 ## Technology
 
@@ -41,4 +41,4 @@ _Prend en charge les vrais navigateurs et IE10+._
 
 ## Faites-le nous savoir !
 
-Si vous lancez des instances live de DemocracyOS, n'oubliez pas d'envoyer un mail à Matías Lescano (matias [at] democracyos.org) afin que nous puissions vous aider en communiquant via notre réseau. C'est aussi plus facile pour nous de vous informer à propos des nouvelles fonctionnalités et des progrès si nous savons qui exécute les instances. 
+Si vous lancez des instances live de DemocracyOS, n'oubliez pas d'envoyer un mail à Matías Lescano (matias [at] democracyos.org) afin que nous puissions vous aider en communiquant via notre réseau. C'est aussi plus facile pour nous de vous informer à propos des nouvelles fonctionnalités et des progrès si nous savons qui exécute les instances.
